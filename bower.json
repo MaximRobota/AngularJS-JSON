@@ -1,0 +1,14 @@
+{
+  "name": "angular-test",
+  "ignore": [],
+  "dependencies": {
+    "angular": "*",
+    "angular-bootstrap": "*",
+    "angular-resource": "*",
+    "angular-route": "*",
+    "bootstrap": "*",
+    "html5shiv": "*",
+    "jquery": "*",
+    "respond": "~1.4.2"
+  }
+}
